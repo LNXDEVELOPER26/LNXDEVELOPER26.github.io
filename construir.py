@@ -12,72 +12,65 @@ CONTACTO = ''   # el correo de contacto que se ve en las paginas; vacio: no sale
 PUB = 'pub-2873519479118996'   # el editor de AdMob (app-ads.txt)
 
 PRIVACIDAD = '''
-## Qué es esta app
-LNX TV Player es un reproductor de video. Reproduce las listas M3U, los enlaces HLS (.m3u8) y los videos (MP4 y otros formatos) que tú escribes o pegas en la app.
-LNX TV Player no incluye canales, listas ni contenido de ningún tipo: todo lo que reproduces lo pones tú.
+## Qué es
+LNX TV Player reproduce las listas M3U, los enlaces HLS y los videos (MP4 y otros) que tú pegas. No incluye canales, listas ni contenido.
 
-## Datos que se guardan solo en tu teléfono
-- Los enlaces y las listas que abres (para mostrártelos en «Recientes» y «Ver listas»).
-- Los canales que marcas como favoritos.
-- Tus ajustes de la app.
-Esta información no se envía a nuestros servidores. Puedes borrarla cuando quieras desde la app (ver «Borrar tus datos») o desinstalándola.
+## Lo que se guarda en tu teléfono
+Tus listas y enlaces recientes, tus canales favoritos y tus ajustes. No se envían a nuestros servidores. Se borran desde la app o al desinstalarla.
 
-## Datos que recopila la app
-- Identificador de instalación: un código propio de la app, sin relación con tu nombre ni tu correo, que usamos para contar cuántos teléfonos usan la app y saber qué versión tienen.
-- Datos técnicos básicos de la conexión (como la dirección IP) que cualquier servidor recibe al responder a la app.
-No te pedimos nombre, correo, teléfono, ubicación, contactos, fotos ni archivos.
+## Lo que recopilamos
+- Un identificador de instalación propio de la app, sin relación con tu nombre ni tu correo, para contar cuántos teléfonos la usan y con qué versión.
+- Datos técnicos de la conexión, como la dirección IP, que cualquier servidor recibe.
+No pedimos nombre, correo, teléfono, ubicación, contactos ni archivos.
 
 ## Anuncios
-La app muestra anuncios de Google AdMob. Para mostrarlos, Google puede usar el identificador de publicidad de tu dispositivo, tu dirección IP y datos de cómo interactúas con los anuncios. Puedes restablecer o desactivar el identificador de publicidad en los ajustes de tu teléfono (Ajustes > Google > Anuncios).
-Más información sobre cómo Google usa los datos: https://policies.google.com/technologies/partner-sites
+La app muestra anuncios de Google AdMob. Google puede usar el identificador de publicidad de tu dispositivo, tu dirección IP y tus interacciones con los anuncios. Puedes restablecerlo o desactivarlo en Ajustes > Google > Anuncios.
+Más información: https://policies.google.com/technologies/partner-sites
 
 ## Servidores de terceros
-Cuando abres una lista, un enlace o un video, la app se conecta directamente al servidor de esa dirección. Ese servidor puede recibir tu dirección IP y los datos normales de la conexión. No controlamos esos servidores ni su contenido.
+Al abrir una lista, un enlace o un video, la app se conecta directamente a ese servidor, que puede recibir tu dirección IP. No lo controlamos.
 
-## Menores de edad
-La app no está dirigida a menores de 13 años y no recopila a propósito datos de menores.
+## Menores
+La app no está dirigida a menores de 13 años.
 
-## Tus derechos
-Puedes pedirnos que borremos los datos que tengamos asociados a tu instalación. Cómo hacerlo está explicado en la página «Borrar tus datos».
+## Borrar tus datos
+Mira la página «Borrar tus datos».
 
-## Cambios en esta política
-Si cambiamos esta política, publicaremos la nueva versión en esta misma dirección con su fecha de actualización.
+## Cambios
+Publicaremos aquí cualquier cambio, con su fecha.
 '''
 
 TERMINOS = '''
-## Uso de la app
+## Uso
 LNX TV Player es un reproductor de video. Al usarlo aceptas estos términos.
 
 ## Tu contenido
-La app solo reproduce los enlaces, listas y videos que tú agregas. No proporcionamos ni alojamos ese contenido.
-Eres el único responsable de que tengas derecho a reproducir lo que agregas y de cumplir las leyes de tu país.
+La app solo reproduce lo que tú agregas. No proporcionamos ni alojamos ese contenido. Tú eres responsable de tener derecho a reproducirlo y de cumplir las leyes de tu país.
 
 ## Uso permitido
-- Úsala solo con contenido que tengas derecho a ver.
-- No la uses para actividades ilegales ni para dañar a otras personas o servicios.
+No uses la app para actividades ilegales ni para dañar a otras personas o servicios.
 
 ## Anuncios
-La app es gratuita y muestra anuncios para mantenerse.
+La app es gratuita y muestra anuncios.
 
 ## Sin garantías
-La app se ofrece «tal cual». No garantizamos que funcione sin interrupciones ni que todos los enlaces o listas se reproduzcan, porque dependen de servidores que no controlamos.
+La app se ofrece «tal cual». Que un enlace o una lista se reproduzca depende de servidores que no controlamos.
 
 ## Cambios
-Podemos actualizar estos términos. La versión vigente es la publicada en esta dirección.
+La versión vigente es la publicada en esta dirección.
 '''
 
 BORRADO = '''
-## Borrar lo que está en tu teléfono
-Tus listas, enlaces recientes y favoritos se guardan solo en tu teléfono. Para borrarlos:
-- Listas y enlaces recientes: abre el menú de la app (las tres rayas) y toca «Eliminar listas». También puedes quitar una por una con la X.
+## En tu teléfono
+- Listas y enlaces recientes: menú (las tres rayas) > «Eliminar listas», o la X de cada una.
 - Favoritos: menú > Ajustes > «Borrar mis favoritos».
-- Todo a la vez: desinstala la app, o en los ajustes de Android entra en Aplicaciones > LNX TV Player > Almacenamiento > «Borrar datos».
+- Todo: desinstala la app, o en Android entra en Aplicaciones > LNX TV Player > Almacenamiento > «Borrar datos».
 
-## Borrar lo que tenemos en nuestros servidores
-Solo guardamos un contador anónimo de instalaciones, sin tu nombre ni tu correo. Al desinstalar la app dejas de generarlo. Si quieres que borremos igualmente el dato asociado a tu instalación, escríbenos y lo borramos.
+## En nuestros servidores
+Solo guardamos un contador anónimo de instalaciones, sin nombre ni correo. Si quieres que borremos el dato de tu instalación, escríbenos.
 
-## Datos de publicidad
-Los datos que Google AdMob usa para los anuncios los administra Google. Puedes restablecer o desactivar el identificador de publicidad en Ajustes de Android > Google > Anuncios, y gestionar la personalización en https://myadcenter.google.com
+## Publicidad
+Los datos de los anuncios los administra Google. Gestiónalos en Ajustes de Android > Google > Anuncios y en https://myadcenter.google.com
 '''
 
 PAGINAS = [
